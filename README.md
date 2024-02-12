@@ -8,9 +8,10 @@ Key technologies, including One Hot Encoding and GloVe word embeddings, played c
 
 _Achieved train accuracy of approximately 87% and test accuracy of around 77%, indicating strong learning and generalization capabilities._
 
-![image](https://github.com/Arpit-Sagar/Language-Translation-using-NMT-and-LSTM/assets/96679459/ea54ff56-2c0c-4e45-813b-e7d597cbca00)
+![image](https://github.com/Arpit-Sagar/Language-Translation-using-NMT-and-LSTM/assets/96679459/969f5691-625d-4d1e-a345-33419f102391)
 
-![image](https://github.com/Arpit-Sagar/Language-Translation-using-NMT-and-LSTM/assets/96679459/a1336d9a-b563-4ab6-8331-5676444033da)
+![image](https://github.com/Arpit-Sagar/Language-Translation-using-NMT-and-LSTM/assets/96679459/6ff27703-9d3b-440e-93cb-ad27c7392093)
+
 
 ![image](https://github.com/Arpit-Sagar/Language-Translation-using-NMT-and-LSTM/assets/96679459/2c78dd2b-a309-4c82-867a-8829ab37a88d)
 
